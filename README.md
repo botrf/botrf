@@ -22,10 +22,6 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=botrf&layout=compact&count_private=true&theme=gruvbox)
 
 
-<a href="https://www.linkedin.com/in/michael-omelchenko-100453156/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 </br>
 
 <!---
